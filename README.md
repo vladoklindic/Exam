@@ -4,10 +4,10 @@ install node
 
 In the root folder from cmd install: 
 
-npm install selenium-webdriver
-npm install chromedriver
-npm install mocha
-npm install mochawesome
+1) npm install selenium-webdriver
+2) npm install chromedriver
+3) npm install mocha
+4) npm install mochawesome
 
 Run tests from root folder in cmd:
 
