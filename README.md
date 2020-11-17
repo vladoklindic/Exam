@@ -1,7 +1,7 @@
 # Exam
 Technical exam:
 
-1) download and install node
+1) download and install node.js
 
 In the root folder from cmd install: 
 
