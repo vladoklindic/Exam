@@ -1,6 +1,7 @@
 # Exam
-Technical exam
-install node
+Technical exam:
+
+1) download and install node
 
 In the root folder from cmd install: 
 
