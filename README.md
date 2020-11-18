@@ -10,6 +10,6 @@ In the root project folder from cmd install:
 3) npm install mocha
 4) npm install mochawesome
 
-Run tests from root root folder in cmd:
+Run tests from root project folder in cmd:
 
 mocha exam.js --reporter mochawesome
